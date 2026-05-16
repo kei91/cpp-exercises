@@ -3,6 +3,7 @@
 #include <thread>
 #include <syncstream>
 #include <vector>
+#include <shared_mutex>
 
 // multiple readers one writer with https://en.cppreference.com/w/cpp/thread/shared_mutex.html
 int main()

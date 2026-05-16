@@ -1,5 +1,4 @@
 ﻿#include <array>
-#include <immintrin.h>
 #include <benchmark/benchmark.h>
 
 // A vector of structures representing an L2 order book snapshot :
