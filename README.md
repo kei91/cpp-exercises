@@ -30,8 +30,10 @@ cmake --build build
 
 **Run examples:**
 ```bash
+./build/week1_cs
+./build/week1_rs
+./build/week1_tree
 ./build/week2_aos
 ./build/week2_soa
-./build/week2_mutex
-...
+(...see CMakeLists.txt for the rest of the executable names..)
 ```
